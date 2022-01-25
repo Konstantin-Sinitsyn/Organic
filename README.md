@@ -6,6 +6,7 @@
 * HTML
 * CSS
 * JS
+* PHP
 * Bootstrap
 
 ### Что было сделано:
